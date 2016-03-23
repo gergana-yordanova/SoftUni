@@ -1,0 +1,46 @@
+Interpreted Programming Languages
+
+The programming languages that are implemented by means of an interpreter are known as interpreted languages. Interpreters execute the source code directly by translating the source code into an intermediate representation.
+Examples: APL, AutoIt, BASIC, Eiffel,Forth, Frink,GML,ICI,J,Lisp, Lua,M,Pascal
+PCASTL, Perl,Postscript, Python, REXX, Ruby,S-Lang, Spin
+
+
+Basic: The name is short for Beginner's All-purpose Symbolic Instruction Code. It was developed by John George Kemeny and Thomas Eugene Kurtz at Dartmouth in 1964. It was designed with the intent of giving the non-science people an access to computers. It became popular in the 1970s and the '80s. Microsoft Visual Basic is based on Basic. Some dialects of BASIC are compiled computer languages.
+
+Eiffel: It is an object-oriented programming language that is ISO-standardized and used to develop extensible and reusable software. It is a development platform for many industries such as finance, aerospace and video gaming. Sather is a computer programming language that was formerly based on Eiffel and has now evolved to include many functional programming features. Ubercode is a high-level platform-sharing language. Its design is derived from Eiffel and BASIC.
+
+
+Compiled Programming Languages
+
+These programming languages make use of a compiler for the execution of code. Compilers can translate source code into machine code and thus bring out the implementation of the programming language instructions.
+Examples:
+ADA
+ALGOL
+C
+C++
+C#
+CLEO
+COBOL
+Cobra
+D
+DASL
+DIBOL
+Fortran
+JAVA
+JOVIAL
+Objective C
+SMALL
+Smalltalk
+Turing
+Visual Basic
+Visual FoxPro
+XL
+C: Dennis Ritchie at the Bell Telephone Laboratories developed C to be used on the Unix platform. It is a general-purpose, cross-platform, procedural, imperative programming language. It is used for implementing system software and application software and is one of the most-used computer programming languages of today. The development of C++ and C# was influenced by C.
+
+C++: It consists of a combination of high-level and low-level language features and is hence considered as a middle-level programming language. Bjarne Stroustrup of Bell Labs developed C++ as an extension of the C language. Originally known as 'C with Classes', it came to be known as C++ from 1983. It is a multi-paradigm language that supports procedural programming, generic programming, object-oriented programming, and data abstraction.
+
+C#: C Sharp is a multi-paradigm programming language that supports imperative, generic and object-oriented programming. It is a part of the Microsoft .NET Framework. It is similar to C++ in its object-oriented syntax and is also influenced by Java and Delphi. Polyphonic C# extends C#. MC# is an extension of Polyphonic C# that can work on the .NET platform. C-omega is an extension to C# that succeeded Polyphonic C#. It enables access to data stores and includes constructs that support concurrent programming.
+Fortran: It is a procedural, imperative, general purpose computer programming language that works well for scientific computations and numeric operations. After IBM developed it in the 1950s, it soon gained popularity in programming. It is very popular in the field of high-performance computing. It is a structured and compiled programming language that is a subset of Fortran95. Fortran 2003, a revised version of Fortran supports object-oriented programming.
+
+Java: Sun Microsystems developed Java and released it in 1995 as a part of the Java platform. Java applications are compiled to bytecode, which can run on any virtual machine, thus making Java programs platform-independent. It is a very popular language of the modern times. Groovy is an object-oriented programming language for the Java platform. It is a dynamic programming language, which can also be used as a scripting language. Join Java is a programming language that extends Java by adding join methods, asynchronous methods, and order class modifiers to Java. X10 is a computer programming language developed by IBM that supports parallel programming, arrays and concurrency. It is seen as an extended subset of Java.
+

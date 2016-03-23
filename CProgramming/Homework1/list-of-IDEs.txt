@@ -1,0 +1,30 @@
+An Integrated Development Environment is a tool to assist the programmer in building applications or writing scripts. 
+An IDE includes at least: 
+A graphical user interface. 
+It allows you to select files, set options, launch tasks. 
+A source code editor with syntax hightlighting. 
+Configuration of a compiler. 
+Of a link editor. 
+An integrated make tool. He sends commands to the compiler and link editor with the source or object files as parameters. 
+A debugger. 
+The IDE can be dedicated to a programming language or be multi-languages. In the second case the editor adapts the syntax highlighting to the language, depending on the file extension or user choice. 
+
+The NetBeans IDE
+ is like a simple code editor with the source file list on the left and the editing window on the right, but it is actually more sophisticated. It has a built-in syntax checker for supported languages ??that detects errors, can hide the body of a function to reduce the display, can interface to a database to run the code under test. 
+And of course has the classic development tools.It is well-suited for web apps. 
+Support for Git, CVS, SVN. For Windows/Mac/Linux.
+For Windows/Mac/Linux.
+ 
+Eclipse. 
+Written in Java, IDE to integrate same programming tools to a lot of languages. You can add your own tools. 
+It is a difficult to understand and unappreciated software. Most complain in particular to unstable plugins, the slowness, and difficulty to access components. Its qualities are its support to SVN and CVS, the wide range of languages supported.. 
+
+Light Table. 
+A sophisticated editor (based on CodeMirror and Node) that integrates a HTML renderer (NWJS, formerly Node-Webkit) and a sort of internal server. It is intended for dynamic languages such as ClojureScript, JavaScript, Python, and can be completed by plugins for other languages??. It allows the evaluation of code and connecting to a virtual user to test the code and modify it while running.
+The integration of the browser allows you to view the results of changes without reloading the page which is ideal for a Node.js project.
+For Windows/Linux/Mac. 
+
+Code::Blocks - an IDE written in C++ (and primarily for it) using the wxWidgets toolkit. Runs on Windows, Linux/Unix, and Mac OS X and supports multiple compilers.
+
+Xcode - a proprietary (but free of charge) IDE by Apple intended for developing software for Mac OS X and iOS. Runs only on Mac OS X. 
+
